@@ -92,6 +92,7 @@ html,body{
 }
 #img-bg:hover{
     background-color: rgb(159, 183, 206);
+    cursor: pointer;
 }
 #sm-bx{
     height: 50px;
@@ -100,7 +101,7 @@ html,body{
     border-radius: 10px;
     position: absolute;
     top: 420px;
-    left: 916px;
+    left: 900px;
     display: flex;
     flex-direction: row;
     opacity: 0;
