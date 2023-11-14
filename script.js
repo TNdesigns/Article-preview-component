@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", function() {
-    const btn = document.getElementById("img3");
     const icons = document.getElementById("sm-bx");
     const btn2 = document.getElementById("img-bg");
 
